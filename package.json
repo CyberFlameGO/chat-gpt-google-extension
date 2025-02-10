@@ -6,7 +6,7 @@
   "author": "wong2",
   "license": "ISC",
   "dependencies": {
-    "esbuild": "^0.15.17",
+    "esbuild": "^0.25.0",
     "eventsource-parser": "^0.0.5",
     "expiry-map": "^2.0.0",
     "uuid": "^9.0.0"
